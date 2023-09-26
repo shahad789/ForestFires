@@ -16,7 +16,7 @@ public class ArrayList<T> implements List<T>{
         current=-1;
         maxSize=n;
         nodes=(T[])new Object[n];   
-    }
+    } 
     
     //methods
     
@@ -122,6 +122,8 @@ public class ArrayList<T> implements List<T>{
         size++;
         
     }
+    //16
+    public void f(){System.out.println("ki");}
     
 
     //15
