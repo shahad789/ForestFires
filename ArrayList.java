@@ -123,7 +123,7 @@ public class ArrayList<T> implements List<T>{
         
     }
     //16
-    public void f(){System.out.println("ki");}
+    public void f(){System.out.println("ktttti");}
     
 
     //15
